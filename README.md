@@ -81,3 +81,5 @@ El método main lanza la aplicación JavaFX.
 
 ## Ejecucción
 Para ejecutar esta aplicación, simplemente compila y ejecuta la clase FechaColorPicker. Aparecerá una ventana donde podrás seleccionar una fecha y un color, y al presionar el botón "Confirmar Selección", las selecciones se mostrarán en la consola.
+![Captura de pantalla 2024-06-08 224426](https://github.com/DiegoFeijoo55/Controles-DatePicker-y-ColorPicker/assets/169406880/2cb0721c-ed6b-44d6-86eb-3cbddd82ddac)
+![Captura de pantalla 2024-06-08 224704](https://github.com/DiegoFeijoo55/Controles-DatePicker-y-ColorPicker/assets/169406880/4f83a96a-0352-48d0-b576-4192adbafd6b)
